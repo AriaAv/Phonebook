@@ -1,0 +1,42 @@
+C:\Users\AriA PC\Desktop\Phonebook1\Phonebook1\bin\Debug\Phonebook1.exe
+C:\Users\AriA PC\Desktop\Phonebook1\Phonebook1\bin\Debug\Phonebook1.pdb
+C:\Users\AriA PC\Desktop\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.frmphonebook.resources
+C:\Users\AriA PC\Desktop\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.Properties.Resources.resources
+C:\Users\AriA PC\Desktop\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.csproj.GenerateResource.Cache
+C:\Users\AriA PC\Desktop\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.exe
+C:\Users\AriA PC\Desktop\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.pdb
+I:\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.exe
+I:\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.pdb
+H:\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.exe
+H:\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.pdb
+E:\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.exe
+E:\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.pdb
+E:\Phonebook1\Phonebook1\bin\Debug\Phonebook1.exe
+E:\Phonebook1\Phonebook1\bin\Debug\Phonebook1.pdb
+E:\Phonebook1\Phonebook1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.frmphonebook.resources
+E:\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.Properties.Resources.resources
+E:\Phonebook1\Phonebook1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Phonebook1\Phonebook1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.exe
+D:\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.pdb
+D:\Phonebook1\Phonebook1\bin\Debug\Phonebook1.exe
+D:\Phonebook1\Phonebook1\bin\Debug\Phonebook1.pdb
+D:\Phonebook1\Phonebook1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.frmphonebook.resources
+D:\Phonebook1\Phonebook1\obj\x86\Debug\Phonebook1.Properties.Resources.resources
+D:\Phonebook1\Phonebook1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Phonebook1\Phonebook1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Phonebook1\Phonebook1\bin\Debug\tellbook.mdf
+D:\Phonebook1\Phonebook1\bin\Debug\tellbook_log.ldf
+C:\Users\AriA PC\Desktop\Phonebook12\Phonebook1\obj\x86\Debug\Phonebook1.exe
+C:\Users\AriA PC\Desktop\Phonebook12\Phonebook1\obj\x86\Debug\Phonebook1.pdb
+C:\Users\AriA PC\Desktop\ \Phonebook12\Phonebook1\bin\Debug\tellbook.mdf
+C:\Users\AriA PC\Desktop\ \Phonebook12\Phonebook1\bin\Debug\tellbook_log.ldf
+C:\Users\AriA PC\Desktop\ \Phonebook12\Phonebook1\bin\Debug\Phonebook1.exe
+C:\Users\AriA PC\Desktop\ \Phonebook12\Phonebook1\bin\Debug\Phonebook1.pdb
+C:\Users\AriA PC\Desktop\ \Phonebook12\Phonebook1\obj\x86\Debug\Phonebook1.frmphonebook.resources
+C:\Users\AriA PC\Desktop\ \Phonebook12\Phonebook1\obj\x86\Debug\Phonebook1.Properties.Resources.resources
+C:\Users\AriA PC\Desktop\ \Phonebook12\Phonebook1\obj\x86\Debug\Phonebook1.csproj.GenerateResource.Cache
+C:\Users\AriA PC\Desktop\ \Phonebook12\Phonebook1\obj\x86\Debug\Phonebook1.exe
+C:\Users\AriA PC\Desktop\ \Phonebook12\Phonebook1\obj\x86\Debug\Phonebook1.pdb
